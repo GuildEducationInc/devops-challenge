@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> This project is deprecated and is read-only for historical context only.
+
 # Guild DevOps Challenge single-page app
 
 This repo contains the single-page app that's part of Guild Education's coding challenge for DevOps Engineers. The app is hosted on Amazon S3, in a bucket configured as a public website. You can [view the app](http://guild-devops-challenge.s3-website-us-west-2.amazonaws.com/) from any web browser!
